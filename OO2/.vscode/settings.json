@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./aulas/a2/test-",
+        "./aulas/a2/test-"
+    ]
+}
